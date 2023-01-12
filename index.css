@@ -1,0 +1,71 @@
+.calbody{
+    height: 650px;
+    width:  500px;
+    background-color: rgb(31, 40, 84);
+    margin-top: 30px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.display_bar{
+    height: 50px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    padding-right: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+.disp_text{
+    display: flex;
+    justify-content: end;
+    font-size: 30px;
+    text-align: center;
+}
+.button_bar1{
+    height: 500px;
+    width: 70%;
+}
+.button_bar2{
+    height: 500px;
+    width: 30%;
+}
+.btn_table{
+    height: 100%;
+    width: 100%;
+}
+.mybtn{
+    height: 50%;
+    width: 80%;
+    border-radius: 8px;
+    
+}
+.mybtn1{
+    height: 70%;
+    width: 70%;
+    border-radius: 30%;
+    background-color: rgb(255, 235, 12);
+    font-size: 20px;
+}
+.mybtn:hover{
+    background: rgb(192, 192, 192);
+}
+.mybtn1:hover{
+    background: rgb(0, 109, 210);
+}
+.clrbt{
+    height: 60%;
+    border-radius: 30%;
+    width: 80%;
+    background-color: rgb(225, 37, 0);
+    color: white;
+    font-size: 15px;
+
+}
+.clrbt:hover
+{
+    background: rgb(0, 109, 210);
+}
+
+
